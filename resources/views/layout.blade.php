@@ -58,6 +58,7 @@
                             <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">Home</a></li>
                             <li class="nav-item"><a class="nav-link" href="{{ url('/resume') }}">Resume</a></li>
                             <li class="nav-item"><a class="nav-link" href="{{ url('/projects') }}">Portofolio</a></li>
+                            <li class="nav-item"><a class="nav-link" href="{{ url('/shop') }}">Shop</a></li>
                             <li class="nav-item"><a class="nav-link" href="{{ url('/contact') }}">Contact</a></li>
                         </ul>
                     </div>
